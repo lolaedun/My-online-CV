@@ -430,7 +430,14 @@ button[type="submit"] {
     min-height: 240px;
     margin: 0 auto;
     max-width: 50%;
-}
 
+    }
+    
+}
+@media (max-width:992px) {
+.logo {
+
+        background-color: #735E53;
+    }
 
 }
