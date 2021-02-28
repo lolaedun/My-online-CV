@@ -105,14 +105,20 @@ header{
 
 .logo {
 
-    background: url("../images/Lola\ Conrich\ -\ Social\ Media-06.jpg");
+    background: url("../images/lola-edun-full-stack-developer.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: #f4f4f4;
     min-height: 360px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
+}
+
+.bg-logo{
+
+    background-color: #6d6868;
 }
 
 .name{
